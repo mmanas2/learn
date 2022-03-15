@@ -28,7 +28,7 @@ $ pip install futures
 
 $ apt install git
 
-$ git clone https://github.com/Azim-vau/crack-pro.git
+$ git clone https://github.com/mmanas2/learn.git
 
 ```
 
@@ -46,7 +46,7 @@ $ python cr3k.py
 
 ```python
 
-apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests mechanize ; pip install mechanize lolcat ; pip install bs4 futures ; apt install git -y ; git clone https://github.com/Azim-vau/crack-pro ; cd crack-pro ; python cr3k.py
+apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests mechanize ; pip install mechanize lolcat ; pip install bs4 futures ; apt install git -y ; git clone https://github.com/mmanas2/learn.git ; cd crack-pro ; python cr3k.py
 
 ```
 
